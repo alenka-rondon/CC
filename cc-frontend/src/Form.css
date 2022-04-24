@@ -1,0 +1,36 @@
+.form {
+    display: flex;
+    flex-direction: column;
+    align-self: center;
+    margin: 10px;
+    padding: 20px;
+    margin-left: 80px;
+    margin-right: 80px;
+    background-color: #e7f6fa;
+    border: 2p solid #e7f6fa;
+    border-radius: 10px;
+  }
+
+.form-title {
+    text-align: center;
+}
+
+.form-qs {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.submit-form {
+    padding: 5px;
+    align-self: center;
+    color: black;
+    width: 50vw;
+    background-color: #cfecce;
+    border: 2px solid #ffffff;
+    border-radius: 20px;
+}
+
+.submit-form:hover {
+    color: white;
+    background-color: #67C657;
+}
